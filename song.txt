@@ -9,5 +9,4 @@ Side by side
 Were marching into destiny
 ---
 
-Odens sons
-Attack
+Feature line
